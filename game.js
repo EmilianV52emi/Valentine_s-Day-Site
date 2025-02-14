@@ -12,7 +12,7 @@ let gameLoop = null;
 
 // Poziția și viteza pisicii
 let catPos = {
-    x: 600,
+    x: 800,
     y: 20,
     speedY: 0,
     speedX: 0
